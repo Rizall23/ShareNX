@@ -1,12 +1,12 @@
 {
-    "Url": "https://api.telegram.org/[YOUR_BOT_TOKEN]/sendPhoto",
+    "Url": "https://api.telegram.org/5040465693:AAGgiVdyHSSR-JJkXlm7tiy3CYAoIHIUYpM/sendPhoto",
     "Regex": "",
     "ImageName": "photo",
     "VideoName": "",
     "Mimepart": [
         {
             "Name": "chat_id",
-            "Data": "[YOUR_USER_ID_HERE]"
+            "Data": "@yuli23bot"
         }
     ],
     "Show Response": false
